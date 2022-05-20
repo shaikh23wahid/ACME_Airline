@@ -1,0 +1,26 @@
+.headerSearchRow {
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.headerInputSearch:focus {
+    outline: none !important;
+    border: none !important;
+}
+
+.ant-input-affix-wrapper {
+    border: none !important;
+}
+
+.ant-input-affix-wrapper-focused {
+    border: none !important;
+    outline: none !important;
+}
+
+.dropdown-btn>.ant-dropdown-trigger {
+    border: none;
+}
+
+.dropdown-btn>.ant-dropdown-trigger>span {
+    background-color: white !important;
+}

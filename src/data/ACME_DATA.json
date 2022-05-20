@@ -1,0 +1,90 @@
+{
+    "airports": [
+        {
+            "id": 6523,
+            "ident": "00A",
+            "type": "heliport",
+            "name": "Total Rf Heliport",
+            "latitude_deg": 40.07080078,
+            "longitude_deg": -74.93360138,
+            "elevation_ft": 11,
+            "continent": "",
+            "iso_country": "US",
+            "iso_region": "US-PA",
+            "gps_code": "00A",
+            "local_code": "00A"
+        },
+        {
+            "id": 323361,
+            "ident": "00AA",
+            "type": "heliport",
+            "name": "Aero B Ranch Airport",
+            "latitude_deg": 38.704022,
+            "longitude_deg": -101.473911,
+            "elevation_ft": 3435,
+            "continent": "",
+            "iso_country": "US",
+            "iso_region": "US-KS",
+            "gps_code": "00AA",
+            "local_code": "00AA"
+        },
+        {
+            "id": 6524,
+            "ident": "00AK",
+            "type": "heliport",
+            "name": "Lowell Field",
+            "latitude_deg": 59.947733,
+            "longitude_deg": -151.692524,
+            "elevation_ft": 450,
+            "continent": "",
+            "iso_country": "US",
+            "iso_region": "US-AK",
+            "gps_code": "00AK",
+            "local_code": "00AK"
+        },
+        {
+            "id": 6525,
+            "ident": "00AL",
+            "type": "heliport",
+            "name": "Epps Airpark",
+            "latitude_deg": 34.8647994995117,
+            "longitude_deg": -86.77030182,
+            "elevation_ft": 820,
+            "continent": "",
+            "iso_country": "US",
+            "iso_region": "US-AL",
+            "gps_code": "00AL"
+        },
+        {
+            "id": 6526,
+            "ident": "00AR",
+            "type": "closed",
+            "name": "Newport Hospital & Clinic Heliport",
+            "latitude_deg": 35.6087,
+            "longitude_deg": -91.254898,
+            "elevation_ft": 237,
+            "continent": "",
+            "iso_country": "US",
+            "iso_region": "US-AR"
+        },
+        {
+            "id": 2212,
+            "ident": "EDDF",
+            "type": "large_airport",
+            "name": "Frankfurt am Main Airport",
+            "latitude_deg": 50.036249,
+            "longitude_deg": 8.559294,
+            "elevation_ft": 364,
+            "continent": "",
+            "iso_country": "DE",
+            "iso_region": "DE-HE"
+        }
+    ],
+    "countries": [
+        "Germany",
+        "Switzerland",
+        "Estonia",
+        "Greece",
+        "India"
+    ]
+}

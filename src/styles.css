@@ -1,0 +1,183 @@
+body {
+  color: #6AAEE2; 
+}
+
+.pageStyle {
+  background-color:#F6F8FC !important;
+  text-align: left !important;
+}
+
+.logo {
+  height: 40px; 
+  background-color: #2779FE;
+  margin-bottom: 30px;
+}
+
+.logo, span.title {
+  font-size: x-large;
+  font-family: 'Circular-Loom'; 
+  color: #76AAFF;
+  padding-left: 5px;
+}
+ 
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.profileSection {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.profileSection div.greeting{
+  color:#ada1a1;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.profileSection div.userName{
+  color:#0e0e0e;
+  font-size: large;
+  font-weight: 800;
+}
+
+.mB_20{
+  margin-bottom: 20px;
+}
+
+.pL_10{
+  padding-left: 10px;
+}
+
+.ant-layout-header {
+  padding: 0;
+  background-color:#FFFFFF;
+}
+
+.pageHeader {
+  color:#0e0e0e;
+  position: absolute;
+  display: inline-block;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.pageSubHeading {
+  color:#ada1a1;
+  position: relative;
+  top: 10px;
+  display: inline;
+  font-size: smaller;
+  font-weight: 200;
+  font-family: sans-serif;
+}
+
+.example img {
+  width: 100%;
+  position: relative;
+}
+
+.example .overlay {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+}
+
+.example .actions {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  float: right;
+}
+
+.tiles {
+  margin: 10px 0 10px 0; 
+}
+
+.tiles_M {
+  position: relative;
+  padding: 10px;
+  background: white;
+}
+
+.cardHeader{
+  background-color: #F65F6D;
+  color: white;
+}
+
+.tiles_M .ant-card-body {
+  padding: 0 !important;
+}
+
+.cardHeader .cardIcon{
+  display: inline; 
+  position: absolute;
+  left: 15px;
+  top: 15px;
+}
+
+.cardHeader .cardHeaderContent {
+  text-align: left;
+  display: inline-block; 
+  margin: 10px;
+  position: relative;
+  left: -22px;
+}
+
+.cardHeader .cardHeaderContent .cardTitle {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.cardHeader .cardHeaderContent .checkout {
+  font-size: 10px;
+}
+
+.cardHeader .cardHeaderContent .checkout {
+  font-size: 10px;
+}
+
+.cardHeader .action {
+  position: absolute;
+  top: 15px;
+  right: 5%;
+  background-color:#F87E8B;
+  color: white;
+  border: none;
+}
+
+.cardHeader .defaultAction {
+  position: absolute;
+  top: 15px;
+  right: 5%;
+}
+
+.cardInnerContentPanel {
+  padding: 10px;
+}
+
+.cardInnerContentPanel .organizationSection{ 
+  font-size: 12px;
+  display: inline;
+}
+
+.cardInnerContentPanel .organizationSection a{
+  display: block;
+  font-family: sans-serif;
+}
+
+.cardInnerContentPanel .assignedPeople {
+  /* text-align: center; */
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+.cardInnerContentPanel .assignedPeople .ant-list {
+  /* text-align: left !important; */
+}
+
