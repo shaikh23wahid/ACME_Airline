@@ -16,7 +16,7 @@ const { Option } = Select;
 
 const FLIGHTS_URL = `https://opensky-network.org/api/states/all`;
 const PAGE_SIZE = 20;
-const TIME_INTERVAL = 1000000;
+const TIME_INTERVAL = 10000;
 
 export async function getAircrafts(country) {
     const url = country ? `${FLIGHTS_URL}?origin_country=${country}` : FLIGHTS_URL;
