@@ -16,6 +16,7 @@ $ npm install
 ## Development
 ### Start node server API(login API)
 // open comand promp/terminal and run below command from root:
+
 node server.js
 // you should get output as "API is running on http://localhost:8080/login"
 
